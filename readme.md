@@ -11,8 +11,9 @@ Chess composer Max Bezzel published the eight queens puzzle in 1848. Franz Nauck
 
 Since then, many mathematicians, including Carl Friedrich Gauss, have worked on both the eight queens puzzle and its generalized n-queens version. In 1874, S. Gunther proposed a method using determinants to find solutions.[2] J.W.L. Glaisher refined Gunther's approach.
 
-In 1972, Edsger Dijkstra used this problem to illustrate the power of what he called structured programming. He published a highly detailed description of a depth-first backtracking algorithm.2
-	
+In 1972, Edsger Dijkstra used this problem to illustrate the power of what he called structured programming. He published a highly detailed description of a depth-first backtracking algorithm.
+
+
 <img src="https://github.com/akshaybahadur21/NQueen/blob/master/nqueen.gif">
 
 
