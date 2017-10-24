@@ -13,6 +13,7 @@ Since then, many mathematicians, including Carl Friedrich Gauss, have worked on 
 
 In 1972, Edsger Dijkstra used this problem to illustrate the power of what he called structured programming. He published a highly detailed description of a depth-first backtracking algorithm.
 
+For more information, [see](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
 
 <img src="https://github.com/akshaybahadur21/NQueen/blob/master/nqueen.gif">
 
